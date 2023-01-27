@@ -25,7 +25,7 @@ Create a Meme Generator using React JS.
 
 ### Links
 
-- Live Site URL: [lidijaalmemegenerator.netlify.app](lidijaalmemegenerator.netlify.app)
+- Live Site URL: [https://lidijaalmemegenerator.netlify.app/](https://lidijaalmemegenerator.netlify.app/)
 
 
 ## My process
